@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Geologica:wght@300&family=Inter:wght@400;600;700&display=swap");
+
+
+body
+{
+    margin: 0rem;
+    font-family: 'Inter', sans-serif;
+    background-color: #33373E;
+}
+.bg
+{
+    object-fit: cover;
+    scale: 0.5;
+    z-index: -2;
+}

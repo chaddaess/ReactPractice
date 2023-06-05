@@ -1,0 +1,28 @@
+
+.flex-box
+{
+    display:flex;
+    flex-direction: row;
+    border: 1px solid transparent;
+    background-color:#21222A;
+    font-family: 'Inter', sans-serif;
+
+}
+.right
+{
+    display:flex;
+    flex-direction: row;
+    margin-left: 35rem;
+    color: #00D8FF;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.left
+{
+    margin-left: 7rem;
+    color: #DEEBF8;
+    font-family: 'Inter', sans-serif;
+
+}
+

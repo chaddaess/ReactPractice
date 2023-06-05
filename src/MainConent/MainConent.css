@@ -1,0 +1,23 @@
+.container
+{
+    margin-left: 35rem;
+    margin-top: 5rem;
+
+
+}
+.MainConentH1
+{
+    color: whitesmoke;
+}
+
+ul>li
+{
+    margin-top: 2%;
+    color: white;
+}
+
+ul>li::marker
+{
+    font-size: 1.4rem;
+    color: #00D8FF;
+}
